@@ -6,4 +6,5 @@ Caso de Estudo para LinkApi
 
 Pagar.me Checkout:
 * [Overview](https://docs.pagar.me/docs/overview-checkout)
+* [Inserindo o Form](https://docs.pagar.me/docs/inserindo-o-formulario)
 

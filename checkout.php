@@ -1,9 +1,9 @@
-<form method="POST" action="comprar.php">
+<form method="POST" id="form_pagar" action="comprar.php">
     <script type="text/javascript"
         src="https://assets.pagar.me/checkout/checkout.js"
         data-button-text="Pagar"
         data-encryption-key="SUA_ENCRYPTION_KEY"
-        data-amount="100000"
+        data-amount="1"
         data-customer-name="Victor Ferreira Silva"
         data-customer-address-street="Avenida X"
         data-customer-data="false"
