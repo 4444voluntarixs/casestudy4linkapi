@@ -6,16 +6,21 @@
 </head>    
     
 <body>
-<?php
 
-// echo 'Hello world from Cloud9!';
-
-?>
-
-<div class="row">
-    <div class="col-md-12 text-center">
-        <a href="#" class="btn btn-primary">Pagar</a>
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Liceu Ada Lovelace</h1>
+            <?php include "checkout.php" ?>
+        </div>
     </div>
 </div>
+
+
+<!--<div class="row">-->
+<!--    <div class="col-md-12 text-center">-->
+<!--        <a href="#" class="btn btn-primary">Pagar</a>-->
+<!--    </div>-->
+<!--</div>-->
 </body>
 </html>
